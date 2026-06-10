@@ -110,7 +110,4 @@ while (True):
 	y = float(input('Valor para y: '))
 	print('Ponto: ', x , ' , ', y)
 	rede.teste([x,y])
-	
-	#Os dados utilizados correspondem a pares de coordenadas (x,y) para classificação de cores: 
-	# 1 é azul e -1 é vermelho. 
 
